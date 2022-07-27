@@ -1,6 +1,6 @@
 # Hello, everyone!
 
-My name is Angel Gonzalez and I'm a Full Stack Web Developer. I'm from New York, and currently looking for work as a Software Engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/angel-g-702311122/).
+My name is Angel Gonzalez and I'm a Full Stack Web Developer. I'm from New York, and currently looking for work as a Software Engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/angel-g-702311122/) or check out my personal website <a href="https://angel-gonzalez-portfolio-cwk8hhbwy-mebeangel.vercel.app/" target="_blank">Here</>.
 
 
 ## &#x1f4c8; GitHub Stats
